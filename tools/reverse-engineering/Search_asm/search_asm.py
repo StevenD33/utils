@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-# Author = Aether
-# Github = https://github.com/AetherBlack/utils
-
-#!/usr/bin/python3
 
 from bs4 import BeautifulSoup
 
